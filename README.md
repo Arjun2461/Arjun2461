@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **I am a dedicated and versatile developer with a passion for creating innovative and efficient solutions. With a strong foundation in various programming languages and technologies, I thrive in building scalable applications and contributing to open-source projects.**
 
-- 📫 How to reach me **joshiarjun953@gmail.com**
+- 📫 How to reach me **arjunjoshi1610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
